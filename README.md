@@ -45,4 +45,4 @@ This tool is intentionally kept 100% free to support small businesses and indepe
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under a Proprietary Source-Available License. Commercial resale or redistribution is strictly prohibited.
