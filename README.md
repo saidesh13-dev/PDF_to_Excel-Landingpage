@@ -24,37 +24,7 @@ A lightweight, secure, and automated Python web application that extracts raw fi
 
 ---
 
-## 🚀 Local Installation & Setup
 
-Want to run this project locally on your machine via VS Code? Follow these quick steps:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com
-cd YOUR_REPO_NAME
-```
-
-### 2. Set Up a Virtual Environment (Recommended)
-```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Application
-```bash
-streamlit run app.py
-```
-Your default browser will automatically open a local window at `http://localhost:8501`.
-
----
 
 ## 🔒 Security & Privacy Notice
 
