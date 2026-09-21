@@ -70,7 +70,6 @@ We treat financial data with the absolute highest level of sensitivity.
 This tool is intentionally kept 100% free to support small businesses and independent creators. If this script saved you hours of manual spreadsheet bookkeeping, consider supporting its infrastructure costs:
 
 - [☕ Buy Me A Coffee](https://buymeacoffee.com)
-- Optimize your backend tracking effortlessly via our trusted partner: [Get 50% Off QuickBooks via our link](https://intuit.com)
 
 ---
 
